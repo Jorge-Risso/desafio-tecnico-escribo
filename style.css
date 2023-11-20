@@ -1,0 +1,27 @@
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+input{
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+button{
+    border-radius: 10px;
+    background: rgba(0, 128, 0, 0.63);
+    border-color: rgba(0, 128, 0, 0.63);
+}
+
+#alerta{
+    margin: 5px; 
+    color: rgb(226, 18, 18);
+}
+
+
+#numeros{
+    width: 1000px; 
+    word-wrap: break-word;
+    letter-spacing: 1px;
+}
